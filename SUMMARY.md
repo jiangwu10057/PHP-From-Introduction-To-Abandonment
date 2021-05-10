@@ -36,6 +36,10 @@
 #### Hyperf
 
 ### 常用网站
+* [PHP官网](https://www.php.net/)
+* [风雪之隅](https://www.laruence.com/)
+### 推荐博文
+* [PHP7革新与性能优化](https://blog.csdn.net/iteye_5904/article/details/82672491)
 ## Linux
 ## Mysql
 ## Redis
@@ -48,6 +52,7 @@
 ## 网络
 ## 编程范式
 ## 计算机组成原理
+## 重构
 
 
 # 高手篇
@@ -56,6 +61,7 @@
 ## 架构设计
 ### DDD
 ### 分布式
+### 微服务
 ### 其他语言
 #### Javascript
 #### Python
