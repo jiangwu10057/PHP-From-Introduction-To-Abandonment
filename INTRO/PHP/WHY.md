@@ -55,20 +55,27 @@ PHP7 采用新的编译器并且重构了核心数据结构，带来了性能提
 
 ### PHP 8
 2020年11月26日 PHP 8 发布了。
-
-
+PHP 8包含注解、JIT纳入、类型系统、错误系统以及命名参数等优化。
 
 
 ## 特点
 - 脚本语言
-- 快速Fast
-- 灵活Flexible
-- 实用Pragmatic
+- 快速（简）开发（单）Fast
+- 编（风）码（格）灵（随）活（易）Flexible
+- 实用 Pragmatic
 - 跨平台
 ## 未来
 
+PHP 将进一步优化性能并引入其他语言成熟的语言特性。例如：javascript的剪头函数、Fibers底层协程api.
 ## 官方的定位
 ```
 PHP is a popular general-purpose scripting language that is especially suited to web development.
 Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 ```
+
+## 个人看法
+
+PHP 生来就是为了做网站，同时也赶上了 WEB1.0、WEB2.0和移动时代，由于简单易于入门以及快速实现；所以 PHP 得到蓬勃发展。
+如今已经进入 IOT 和 APP 寡头时代以及 WEB 式微， PHP 的生存空间在缩小。
+建议刚入行的工程师们考虑 RUST、PYTHON 、GO、JAVASCRIPT 等语言作为主力！
+
